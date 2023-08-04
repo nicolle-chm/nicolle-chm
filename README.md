@@ -1,6 +1,7 @@
 
 Hey, my name is Nicolle Chuquilin 👋
-I'm currently doing a Master’s degree in Business Analytics at the University of Manchester. I have a Bachelor’s degree in Economics
+
+I'm currently doing a Master’s degree in Business Analytics at the University of Manchester. 
 
 I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey within the world of data.
 
